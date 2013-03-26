@@ -1,0 +1,7 @@
+# Helper Scripts created in Ruby
+# Ashu Joshi
+
+# cc.rb has code that uses Nokogiri to fetch 
+# the Wikipedia page for Countries & Capitals
+# parses the HTML, extracts the Countries, Capitals
+# and then uses that to populate a SQLite database.
